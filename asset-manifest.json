@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/init-react/static/css/main.6f8b3dc3.chunk.css",
+    "main.js": "/init-react/static/js/main.98026062.chunk.js",
+    "main.js.map": "/init-react/static/js/main.98026062.chunk.js.map",
+    "runtime-main.js": "/init-react/static/js/runtime-main.22c41f8b.js",
+    "runtime-main.js.map": "/init-react/static/js/runtime-main.22c41f8b.js.map",
+    "static/js/2.2173295d.chunk.js": "/init-react/static/js/2.2173295d.chunk.js",
+    "static/js/2.2173295d.chunk.js.map": "/init-react/static/js/2.2173295d.chunk.js.map",
+    "static/js/3.f0c0ab6c.chunk.js": "/init-react/static/js/3.f0c0ab6c.chunk.js",
+    "static/js/3.f0c0ab6c.chunk.js.map": "/init-react/static/js/3.f0c0ab6c.chunk.js.map",
+    "index.html": "/init-react/index.html",
+    "static/css/main.6f8b3dc3.chunk.css.map": "/init-react/static/css/main.6f8b3dc3.chunk.css.map",
+    "static/js/2.2173295d.chunk.js.LICENSE.txt": "/init-react/static/js/2.2173295d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/init-react/static/media/item-blue.2103f69b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c41f8b.js",
+    "static/js/2.2173295d.chunk.js",
+    "static/css/main.6f8b3dc3.chunk.css",
+    "static/js/main.98026062.chunk.js"
+  ]
+}
